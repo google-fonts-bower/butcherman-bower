@@ -1,0 +1,17 @@
+{
+    "name": "butcherman-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Typomondo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/butcherman-bower.git"
+    },
+    "description": "Butcherman font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
